@@ -1,8 +1,5 @@
-body {
-  background: #CCCCCC;
-}
-
 h1 {
+  padding: 2rem;
   background: lightblue;
-  margin: 0;
+  text-align: center;
 }
